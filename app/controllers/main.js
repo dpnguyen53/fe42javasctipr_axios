@@ -2,6 +2,10 @@ var nguoiDungService = new NguoiDungService();
 
 getListUser();
 
+function themNguoiDung() {
+  console.log("themNguoiDung");
+}
+
 function getListUser() {
   nguoiDungService
     .layDanhSachNguoiDung()
