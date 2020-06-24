@@ -1,0 +1,6 @@
+- Postman
+- Mockapi
+* Axios => trả về Promises: pending, Resolve, Reject
+* JS => Bất đồng bộ (Asyn)
+- get list Users
+- Add user
